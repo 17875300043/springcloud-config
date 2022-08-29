@@ -1,2 +1,2 @@
-    config:
-      uri: https://github.com/17875300043/springcloud-config.git #GitHub上面的git仓库名字
+   config:
+      info: com.springcloud-dev-version1
